@@ -1,3 +1,7 @@
 gradio
 yfinance
 pandas
+matplotlib
+pytz
+twstock
+google-generativeai
